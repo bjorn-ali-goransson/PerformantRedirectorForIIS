@@ -1,0 +1,2 @@
+https://www.fabrikam.com/Lorem-Ipsum	https://www.fabrikam-new.com/Dolor
+*	https://www.fabrikam-new.com/
